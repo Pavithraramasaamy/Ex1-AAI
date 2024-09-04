@@ -2,7 +2,8 @@
 <H3>Register No : 212222230106</H3>
 <H3> Experiment : 1</H3>
 <H3>DATE: 04-09-2024</H3>
-### Implementation of Bayesian Networks
+
+## Implementation of Bayesian Networks
 
 ## Aim :
 
